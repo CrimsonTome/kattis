@@ -4,12 +4,12 @@
 
 ## System requirements
 
-- A C++ compiler such as GCC
+- A C++ compiler such as G++ (should come with GCC)
 
 ## Development
 
 - edit the `main.cpp` files in each folder
-- run `gcc` on them
+- run `g++` on them
 - if no arguemnts, run `./a.out` to run the program
 
 ## License
